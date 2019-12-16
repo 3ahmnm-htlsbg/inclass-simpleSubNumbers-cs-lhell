@@ -1,28 +1,29 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+2 input Fields which subtract the second from the firsr number and show the result
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+macOS High Sierra, Unity 2019.1.14f, Visual Studio Code 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL (refRes: 1280x720 HD-720p)
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<img src="screenshot01.png">
+<img src="screenshot02.png">
+<img src="screenshot03.png">
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Unityproject Template: (Link: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template)
 
 ### Project state: 
-incl. progress in percent
-
-### Limitations: 
+fin.
 
 ### Lessons Learned: 
+-create GUI
+-add and edit Buttons and InputFields
 
-Copyright by you :)
+Copyright by lhell
